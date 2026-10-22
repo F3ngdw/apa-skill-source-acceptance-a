@@ -3,7 +3,7 @@ name: apa-source-smoke-test
 description: 验证 Skill 的发布、安装和实际调用。当用户要求"执行 Skill 源验收"时触发。
 metadata:
   author: F3ngdw
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # apa-source-smoke-test
@@ -21,7 +21,7 @@ metadata:
 只回复一行固定文本，不执行任何其他操作：
 
 ```
-APA_SKILL_SOURCE_OK_V1
+APA_SKILL_SOURCE_OK_V2
 ```
 
 ## 约束
